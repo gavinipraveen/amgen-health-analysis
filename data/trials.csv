@@ -1,0 +1,101 @@
+TrialID,Product,Phase,Status,Patients,Indication
+T001,Prolia,Phase 2,Completed,1271,Cardio Health
+T002,Prolia,Phase 4,Active,3874,Osteoporosis
+T003,Enbrel,Phase 1,Planned,2631,Osteoporosis
+T004,Prolia,Phase 3,Planned,2341,Osteoporosis
+T005,Otezla,Phase 4,Planned,231,Heart Disease
+T006,Repatha,Phase 2,Active,3246,Rheumatoid Arthritis
+T007,Otezla,Phase 2,Recruiting,4940,Heart Disease
+T008,Repatha,Phase 2,Active,1707,Osteoporosis
+T009,Otezla,Phase 1,Active,4924,Bone Density
+T010,Prolia,Phase 4,Suspended,3136,Heart Disease
+T011,Aimovig,Phase 1,Completed,4720,Rheumatoid Arthritis
+T012,Prolia,Phase 4,Active,4622,Rheumatoid Arthritis
+T013,Prolia,Phase 3,Active,3108,Migraine
+T014,Prolia,Phase 3,Suspended,2383,Osteoporosis
+T015,Prolia,Phase 1,Planned,373,Rheumatoid Arthritis
+T016,Enbrel,Phase 1,Recruiting,4283,Bone Density
+T017,Prolia,Phase 4,Completed,4628,Osteoporosis
+T018,Aimovig,Phase 1,Completed,327,Migraine
+T019,Otezla,Phase 1,Planned,1866,Cardio Health
+T020,Otezla,Phase 4,Completed,1796,Bone Density
+T021,Prolia,Phase 4,Active,249,Heart Disease
+T022,Otezla,Phase 1,Active,255,Heart Disease
+T023,Prolia,Phase 4,Active,3406,Migraine
+T024,Aimovig,Phase 2,Completed,4737,Osteoporosis
+T025,Aimovig,Phase 4,Suspended,4538,Osteoporosis
+T026,Enbrel,Phase 3,Completed,398,Migraine
+T027,Aimovig,Phase 4,Recruiting,2097,Migraine
+T028,Enbrel,Phase 4,Completed,4369,Cardio Health
+T029,Repatha,Phase 3,Recruiting,1244,Cardio Health
+T030,Aimovig,Phase 3,Recruiting,233,Rheumatoid Arthritis
+T031,Repatha,Phase 1,Recruiting,4489,Rheumatoid Arthritis
+T032,Repatha,Phase 4,Completed,3783,Bone Density
+T033,Repatha,Phase 3,Recruiting,1364,Bone Density
+T034,Enbrel,Phase 4,Planned,2255,Migraine
+T035,Repatha,Phase 2,Suspended,205,Osteoporosis
+T036,Aimovig,Phase 2,Suspended,4153,Osteoporosis
+T037,Enbrel,Phase 1,Completed,317,Bone Density
+T038,Prolia,Phase 2,Recruiting,364,Heart Disease
+T039,Repatha,Phase 2,Active,1889,Migraine
+T040,Repatha,Phase 2,Planned,1652,Heart Disease
+T041,Repatha,Phase 4,Recruiting,4123,Bone Density
+T042,Prolia,Phase 2,Suspended,2057,Osteoporosis
+T043,Prolia,Phase 1,Recruiting,2172,Rheumatoid Arthritis
+T044,Enbrel,Phase 4,Recruiting,2535,Osteoporosis
+T045,Prolia,Phase 1,Recruiting,1729,Osteoporosis
+T046,Enbrel,Phase 1,Active,3180,Rheumatoid Arthritis
+T047,Enbrel,Phase 1,Recruiting,3855,Migraine
+T048,Enbrel,Phase 4,Completed,2043,Cardio Health
+T049,Enbrel,Phase 2,Planned,4299,Osteoporosis
+T050,Repatha,Phase 1,Completed,1008,Bone Density
+T051,Prolia,Phase 3,Recruiting,3903,Bone Density
+T052,Otezla,Phase 1,Planned,3434,Osteoporosis
+T053,Otezla,Phase 3,Planned,3432,Migraine
+T054,Aimovig,Phase 2,Planned,485,Cardio Health
+T055,Repatha,Phase 3,Recruiting,1067,Heart Disease
+T056,Repatha,Phase 2,Completed,1475,Rheumatoid Arthritis
+T057,Otezla,Phase 1,Suspended,1187,Heart Disease
+T058,Otezla,Phase 1,Planned,2300,Migraine
+T059,Prolia,Phase 4,Recruiting,1468,Osteoporosis
+T060,Aimovig,Phase 2,Planned,1073,Bone Density
+T061,Enbrel,Phase 4,Planned,2625,Osteoporosis
+T062,Aimovig,Phase 4,Suspended,2549,Heart Disease
+T063,Repatha,Phase 1,Planned,1462,Heart Disease
+T064,Prolia,Phase 3,Completed,3964,Heart Disease
+T065,Prolia,Phase 3,Recruiting,1108,Cardio Health
+T066,Prolia,Phase 4,Suspended,2389,Bone Density
+T067,Prolia,Phase 3,Planned,1278,Rheumatoid Arthritis
+T068,Aimovig,Phase 2,Completed,948,Bone Density
+T069,Repatha,Phase 4,Suspended,839,Rheumatoid Arthritis
+T070,Repatha,Phase 3,Recruiting,1675,Rheumatoid Arthritis
+T071,Otezla,Phase 4,Recruiting,4967,Heart Disease
+T072,Aimovig,Phase 2,Completed,4101,Osteoporosis
+T073,Prolia,Phase 3,Recruiting,2356,Migraine
+T074,Otezla,Phase 4,Completed,4604,Heart Disease
+T075,Prolia,Phase 2,Planned,3077,Cardio Health
+T076,Aimovig,Phase 4,Planned,1569,Rheumatoid Arthritis
+T077,Prolia,Phase 3,Active,2348,Osteoporosis
+T078,Otezla,Phase 2,Active,2363,Rheumatoid Arthritis
+T079,Otezla,Phase 1,Suspended,4330,Heart Disease
+T080,Prolia,Phase 3,Planned,1826,Migraine
+T081,Aimovig,Phase 3,Recruiting,4533,Rheumatoid Arthritis
+T082,Repatha,Phase 1,Recruiting,2600,Heart Disease
+T083,Otezla,Phase 2,Recruiting,2808,Heart Disease
+T084,Aimovig,Phase 2,Recruiting,801,Migraine
+T085,Otezla,Phase 1,Planned,3496,Migraine
+T086,Aimovig,Phase 3,Suspended,3337,Rheumatoid Arthritis
+T087,Prolia,Phase 1,Completed,2172,Heart Disease
+T088,Repatha,Phase 2,Recruiting,3421,Bone Density
+T089,Prolia,Phase 2,Suspended,973,Cardio Health
+T090,Prolia,Phase 3,Completed,4035,Heart Disease
+T091,Prolia,Phase 2,Completed,2487,Rheumatoid Arthritis
+T092,Enbrel,Phase 2,Active,771,Rheumatoid Arthritis
+T093,Prolia,Phase 3,Suspended,398,Rheumatoid Arthritis
+T094,Repatha,Phase 1,Planned,1591,Osteoporosis
+T095,Prolia,Phase 2,Recruiting,2513,Migraine
+T096,Prolia,Phase 4,Suspended,883,Rheumatoid Arthritis
+T097,Repatha,Phase 4,Planned,4471,Rheumatoid Arthritis
+T098,Repatha,Phase 3,Active,3493,Cardio Health
+T099,Otezla,Phase 3,Active,804,Bone Density
+T100,Repatha,Phase 4,Recruiting,4898,Rheumatoid Arthritis
